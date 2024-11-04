@@ -5,6 +5,8 @@ Sistema experto en Python
 
 Utilizar [`pipenv`](https://pipenv.pypa.io)
 
+
+
 ```bash
 pipenv install
 ```
@@ -14,3 +16,11 @@ pipenv install
 ```bash
 pipenv run main.py
 ```
+uvicorn main:app --reload
+
+y en otra terminal ejecutar  
+
+cd frontend
+cd frontend
+npm install
+npm start
