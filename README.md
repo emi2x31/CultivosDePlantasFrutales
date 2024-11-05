@@ -118,4 +118,6 @@ uvicorn main:app --reload
 
 
 14- Poner la direccion IP junto con el Numero de puerto en el navegador, esta ruta es un localhost, por ende tambien es lo mismo poner http://localhost:3000/ Con esto ya tendria que abrir la Interfaz del Sistema Experto
+
+
 **[⬆ Volver al Indice](#Indice)**
