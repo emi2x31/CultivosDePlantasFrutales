@@ -75,35 +75,65 @@ En conclusión, con una planificación adecuada y el apoyo de tecnologías espec
 **[⬆ Volver al Indice](#Indice)**
 
 
-
-
-
-
 ----------------------------------------------------------------
+ Instalación
+ ________________________________________________________________
+ 
 
-# sistema-experto-python
-Sistema experto en Python
+[-] Instalación del Servicio de FastApi para poder ejecutar el Sistema Experto
 
-## Instalación
+1- ejecutar simbolo de sistemas como administrador
 
-Utilizar [`pipenv`](https://pipenv.pypa.io)
+2- ir hasta la direccion de descarga:
 
+ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
 
+4- ejecutamos el comando para windows:
 
-```bash
-pipenv install
-```
+python -m venv fastapi-env
 
-## Ejecutar
+En caso que de, dentro de la terminal de windows salga un msj de error que no se reconoce el comando cmlet python instalar el paquete Git desde https://git-scm.com/downloads/win
 
-```bash
-pipenv run main.py
-```
-uvicorn main:app --reload
+5- Ya creado el entorno, hay q activarlo:
 
-y en otra terminal ejecutar  
+fastapi-env\Scripts\activate
+6- si todo sale bien, en el promp tendras algo asi:
+
+(fastapi-env) C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
+
+7- ahora hay q hacer las instalaciones para q funcione fastapi
+
+8- ir a: fastapi.tiangolo.com --> buscar los comandos!!!!
+
+pip install "fastapi[standard]"
+
+pip install "uvicorn[standard]"
+9- Instalamos nodejs desde https://nodejs.org/en
+
+9- desde nuestra ruta en la consola, en mi caso:
+
+(fastapi-env) C:\Users\lenovo\Downloads\GIT_Politecnico\FastAPI_Kine_Node>
+
+Ejecutamos los siguientes comandos en este orden:
 
 cd frontend
 cd frontend
 npm install
 npm start
+se nos abre el chrome en la ruta http://localhost:3000/ - pero no mostrara la base de conocimiento sin antes realizar los pasos del 10 en adelante!
+
+10- ahora abrir vscode --> Abrir la carpeta completa "FastAPI_Kine_Node"
+
+11- seleccionar el archivo "main.py" y abrir la consola "Terminal"
+
+12- Levantar el servidor:
+
+Ejecutar el siguiente comando:
+
+uvicorn main:app --reload
+13- Por defecto tendria que cargar el servicio en la direccion IP:
+
+ http://localhost:3000/
+
+
+14- Poner la direccion IP junto con el Numero de puerto en el navegador, esta ruta es un localhost, por ende tambien es lo mismo poner http://localhost:3000/ Con esto ya tendria que abrir la Interfaz del Sistema Experto
