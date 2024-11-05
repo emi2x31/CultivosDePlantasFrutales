@@ -20,23 +20,19 @@ Autor: ORTEGA, Emilio
 
 - [Informe del Proyecto](#Informe)
 - [Objetivo del Proyecto](#Objetivo)
-- [Contexto y Relevancia](#Contexto)
-- [Preguntas de Investigación](#Preguntas)
 - [Metodología](#Metodología)
 - [Conclusiones Esperadas](#Conclusiones)
-- [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
-- [Notebook del trabajo final_rutarelativa](./notebooks/Version3_PredecirCongelamientodelSuelo.ipynb)
-- [Notebook del trabajo final_ruta_drive](./notebooks/Version3.1_PredecirCongelamientodelSuelo.ipynb)
 - [Modelo y Analisis de Resultados](./reports/Reporte%20de%20Resultados.md)
 - [Video explicativo del proyecto](/references/Emilio_ORTEGA_Congelamiento_del_Suelo_31_07_24_Aprendizaje_automatico.mp4)
   
 
-
 -------------
 # Informe:
 
-Este informe presenta un modelo de aprendizaje automático diseñado para predecir el congelamiento de las rutas en ubicaciones específicas. Se recopilaron y preprocesaron datos históricos sobre variables meteorológicas y condiciones de las rutas para identificar patrones asociados con el congelamiento de las mismas. Se aplicaron técnicas de selección de características para identificar predictores relevantes, los cuales fueron utilizados para entrenar y evaluar varios algoritmos de aprendizaje automático, incluidos métodos de regresión y árboles de decisión. El rendimiento de estos algoritmos se evaluó utilizando métricas como precisión, sensibilidad y especificidad. El modelo seleccionado se optimizó para mejorar su rendimiento y se desplegó para monitoreo y ajuste en tiempo real. Los resultados demuestran la efectividad del modelo en predecir la formación de hielo en las rutas, proporcionando conocimientos valiosos para la toma de decisiones en diversos sectores, como la seguridad vial y la construcción. Esta investigación contribuye a comprender los factores que influyen en el congelamiento de las rutas y mejora las capacidades predictivas en campos relacionados.
+El cultivo de plantas frutales en Tierra del Fuego presenta desafíos únicos debido al clima extremo de la región, caracterizado por bajas temperaturas, fuertes vientos y una temporada de crecimiento corta. Sin embargo, hay especies frutales que pueden adaptarse bien, como las grosellas, frambuesas y moras. Estas especies toleran el frío y requieren técnicas de cultivo específicas para maximizar la producción en este entorno.
+
+Entre las prácticas recomendadas, el uso de sistemas de riego controlados y la protección contra el viento son esenciales. Además, es común implementar métodos de protección contra heladas y técnicas de fertilización específicas para mejorar la resistencia de las plantas. En Tierra del Fuego, la selección de variedades resistentes y el monitoreo constante de factores como la disponibilidad de agua y la aparición de plagas son fundamentales para el éxito del cultivo frutal.
 
 **[⬆ Volver al Indice](#Indice)**
 
@@ -45,35 +41,7 @@ Este informe presenta un modelo de aprendizaje automático diseñado para predec
 -------------
 # Objetivo:
 
-El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático capaz de predecir si el suelo está por congelarse en una ubicación específica. Este modelo será entrenado utilizando datos históricos de variables meteorológicas y condiciones del suelo para identificar patrones y características asociadas con el congelamiento del suelo.
-
-
-**[⬆ Volver al Indice](#Indice)**
-
-
-
-----------------
-# Contexto:
-
-El congelamiento del suelo es un fenómeno climático que puede tener impactos significativos en diversas industrias y sectores, incluyendo la agricultura, la construcción, el transporte y la seguridad pública. Poder predecir con anticipación cuándo es probable que ocurra el congelamiento del suelo puede permitir a las organizaciones y autoridades tomar medidas preventivas y preparativas, mitigando así los posibles efectos negativos.
-
-
-**[⬆ Volver al Indice](#Indice)**
-
-
-
-------------
-# Preguntas:
-
-1. ¿Cuáles son las variables meteorológicas más relevantes para predecir el congelamiento del suelo?
-2. ¿Qué características del suelo influyen en su propensión al congelamiento?
-3. ¿Existen patrones estacionales o temporales en la ocurrencia del congelamiento del suelo?
-4. ¿Qué tipo de modelo de aprendizaje automático es más adecuado para este problema?
-5. ¿Cómo se pueden obtener y preprocesar los datos necesarios para entrenar el modelo de manera efectiva?
-
-Estas preguntas de investigación guiarán el desarrollo del proyecto de aprendizaje automático y ayudarán a identificar los factores clave que influyen en el congelamiento del suelo, así como la mejor manera de abordar el problema utilizando técnicas de aprendizaje automático.
-
-Las respuestas a estas preguntas se pueden encontrar al final del notebook presentado siga el link  ==> [Notebook del trabajo final](./notebooks/Version3_PredecirCongelamientodelSuelo.ipynb)
+El objetivo del cultivo de plantas frutales en Tierra del Fuego es desarrollar un sistema productivo eficiente y sostenible que permita optimizar la producción de frutas adaptadas al clima extremo de la región, como grosellas y frambuesas. Este objetivo incluye mejorar la resistencia de las plantas frente a condiciones adversas, como bajas temperaturas y vientos fuertes, y asegurar una calidad de cosecha adecuada mediante técnicas de riego, fertilización y control de plagas. La meta final es contribuir a la autosuficiencia alimentaria local, generar ingresos para los agricultores y promover el desarrollo agrícola en áreas marginales.
 
 
 **[⬆ Volver al Indice](#Indice)**
