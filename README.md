@@ -67,9 +67,9 @@ El proyecto seguirá los siguientes pasos:
 -----------------------
 # Conclusiones:
 
-Se espera que este proyecto proporcione un modelo de aprendizaje automático efectivo y preciso para predecir el congelamiento del suelo, lo que podría tener importantes implicaciones en la planificación y toma de decisiones en una variedad de sectores. Además, se espera que este proyecto contribuya al conocimiento científico sobre los factores que influyen en el congelamiento del suelo y su predicción.
+El cultivo de plantas frutales en Tierra del Fuego representa una oportunidad para desarrollar una agricultura adaptada a condiciones climáticas extremas, permitiendo la diversificación de la producción local y el fortalecimiento de la autosuficiencia alimentaria. Si bien la región enfrenta desafíos como las bajas temperaturas, vientos fuertes y una temporada de crecimiento limitada, la selección de especies resistentes, como las grosellas y frambuesas, junto con la implementación de técnicas de riego, protección contra el viento y manejo de plagas, han demostrado ser efectivas. 
 
-Las conclusiones obtenidas se pueden encontrar en el siguiente link ==> [Modelo y Analisis de Resultados](./reports/Reporte%20de%20Resultados.md)
+En conclusión, con una planificación adecuada y el apoyo de tecnologías específicas, el cultivo frutal en Tierra del Fuego puede ser sostenible y rentable, beneficiando tanto a los productores locales como a la economía regional.
 
 
 **[⬆ Volver al Indice](#Indice)**
