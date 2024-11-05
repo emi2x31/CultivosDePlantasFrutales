@@ -20,8 +20,8 @@ Autor: ORTEGA, Emilio
 
 - [Informe del Proyecto](#Informe)
 - [Objetivo del Proyecto](#Objetivo)
-- [Metodología](#Metodología)
 - [Conclusiones](#Conclusiones)
+- [Instalacion](#Instalacion)
 - [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
 - [Modelo y Analisis de Resultados](./reports/Reporte%20de%20Resultados.md)
 - [Video explicativo del proyecto](/references/Emilio_ORTEGA_Congelamiento_del_Suelo_31_07_24_Aprendizaje_automatico.mp4)
@@ -37,7 +37,6 @@ Entre las prácticas recomendadas, el uso de sistemas de riego controlados y la 
 **[⬆ Volver al Indice](#Indice)**
 
 
-
 -------------
 # Objetivo:
 
@@ -45,23 +44,6 @@ El objetivo del cultivo de plantas frutales en Tierra del Fuego es desarrollar u
 
 
 **[⬆ Volver al Indice](#Indice)**
-
-
-
-----------------
-# Metodología:
-
-El proyecto seguirá los siguientes pasos:
-1. Recopilación de Datos: Se recopilarán datos históricos de variables meteorológicas (como temperatura, humedad, precipitación, etc.) y características del suelo de una o varias ubicaciones relevantes.
-2. Preprocesamiento de Datos: Se realizará un proceso de limpieza y preparación de los datos para eliminar valores atípicos, manejar datos faltantes y convertir los datos en un formato adecuado para el entrenamiento del modelo.
-3. Selección de Características: Se identificarán las características más relevantes para la predicción del congelamiento del suelo utilizando técnicas de selección de características.
-4. Entrenamiento del Modelo: Se entrenarán varios modelos de aprendizaje automático, como modelos de regresión, clasificación o métodos basados en árboles de decisión, utilizando los datos preparados.
-5. Evaluación del Modelo: Se evaluará el rendimiento de los modelos utilizando métricas adecuadas, como precisión, sensibilidad y especificidad, utilizando conjuntos de datos de prueba.
-6. Optimización y Ajuste del Modelo: Se realizarán ajustes en los hiperparámetros y la arquitectura del modelo para mejorar su rendimiento.
-7. Despliegue y Monitoreo: Una vez que se haya seleccionado el modelo final, se implementará en un entorno de producción y se monitoreará su rendimiento continuamente para realizar ajustes según sea necesario.
-
-**[⬆ Volver al Indice](#Indice)**
-
 
 
 -----------------------
@@ -76,9 +58,8 @@ En conclusión, con una planificación adecuada y el apoyo de tecnologías espec
 
 
 ----------------------------------------------------------------
- Instalación
- ________________________________________________________________
- 
+ # Instalacion
+ --------------------------------------------------------------
 
 [-] Instalación del Servicio de FastApi para poder ejecutar el Sistema Experto
 
@@ -137,3 +118,4 @@ uvicorn main:app --reload
 
 
 14- Poner la direccion IP junto con el Numero de puerto en el navegador, esta ruta es un localhost, por ende tambien es lo mismo poner http://localhost:3000/ Con esto ya tendria que abrir la Interfaz del Sistema Experto
+**[⬆ Volver al Indice](#Indice)**
