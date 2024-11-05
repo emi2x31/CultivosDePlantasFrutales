@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/0c105bf0-4f3e-41ec-aaa2-752b6b957594)
+
+
 CULTIVO DE PLANTAS FRUTALES EN TIERRA DEL FUEGO
 ---------
 Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
