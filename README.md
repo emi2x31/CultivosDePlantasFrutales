@@ -120,3 +120,9 @@ uvicorn main:app --reload
 
 
 **[⬆ Volver al Indice](#Indice)**
+
+
+Organizacion del Proyecto
+----------------------------------
+
+![image](https://github.com/user-attachments/assets/70a15bab-adee-44a4-b337-e92d6c322f2c)
