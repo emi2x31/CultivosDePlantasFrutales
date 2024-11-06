@@ -63,7 +63,7 @@ En conclusión, con una planificación adecuada y el apoyo de tecnologías espec
 
 2- ir hasta la direccion de descarga:
 
-ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
+ej: C:\Users\L4\Downloads\fastapi
 
 4- ejecutamos el comando para windows:
 
@@ -74,22 +74,24 @@ En caso que de, dentro de la terminal de windows salga un msj de error que no se
 5- Ya creado el entorno, hay q activarlo:
 
 fastapi-env\Scripts\activate
+
 6- si todo sale bien, en el promp tendras algo asi:
 
-(fastapi-env) C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
+(fastapi-env) C:\Users\L4\Downloads\fastapi)
 
-7- ahora hay q hacer las instalaciones para q funcione fastapi
+7- ahora hacer las instalaciones para que funcione fastapi
 
 8- ir a: fastapi.tiangolo.com --> buscar los comandos!!!!
 
 pip install "fastapi[standard]"
 
 pip install "uvicorn[standard]"
+
 9- Instalamos nodejs desde https://nodejs.org/en
 
-9- desde nuestra ruta en la consola, en mi caso:
+ desde nuestra ruta en la consola, en este caso:
 
-(fastapi-env) C:\Users\lenovo\Downloads\GIT_Politecnico\FastAPI_Kine_Node>
+(fastapi-env) C:\Users\L4\Downloads\fastapi>
 
 Ejecutamos los siguientes comandos en este orden:
 
@@ -99,7 +101,7 @@ npm install
 npm start
 se nos abre el chrome en la ruta http://localhost:3000/ - pero no mostrara la base de conocimiento sin antes realizar los pasos del 10 en adelante!
 
-10- ahora abrir vscode --> Abrir la carpeta completa "FastAPI_Kine_Node"
+10- ahora abrir vscode --> Abrir la carpeta completa "FastAPI"
 
 11- seleccionar el archivo "main.py" y abrir la consola "Terminal"
 
@@ -108,6 +110,7 @@ se nos abre el chrome en la ruta http://localhost:3000/ - pero no mostrara la ba
 Ejecutar el siguiente comando:
 
 uvicorn main:app --reload
+
 13- Por defecto tendria que cargar el servicio en la direccion IP:
 
  http://localhost:3000/
