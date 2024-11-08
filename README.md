@@ -96,10 +96,14 @@ pip install "uvicorn[standard]"
 Ejecutamos los siguientes comandos en este orden:
 
 cd frontend
+
 cd frontend
+
 npm install
+
 npm start
-se nos abre el chrome en la ruta http://localhost:3000/ - pero no mostrara la base de conocimiento sin antes realizar los pasos del 10 en adelante!
+
+se  abre el chrome en la ruta http://localhost:3000/ - pero no mostrara la base de conocimiento sin antes realizar los pasos del 10 en adelante!
 
 10- ahora abrir vscode --> Abrir la carpeta completa "FastAPI"
 
