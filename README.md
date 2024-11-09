@@ -26,7 +26,7 @@ Autor: ORTEGA, Emilio
 -------------
 # Informe:
 
-El cultivo de plantas frutales en Tierra del Fuego presenta desafíos únicos debido al clima extremo de la región, caracterizado por bajas temperaturas, fuertes vientos y una temporada de crecimiento corta. Sin embargo, hay especies frutales que pueden adaptarse bien, como las grosellas, frambuesas y moras. Estas especies toleran el frío y requieren técnicas de cultivo específicas para maximizar la producción en este entorno.
+El cultivo de plantas frutales en Tierra del Fuego presenta desafíos únicos debido al clima extremo de la región, caracterizado por bajas temperaturas, fuertes vientos y una temporada de crecimiento corta. Sin embargo, hay especies frutales que pueden adaptarse bien, como las grosellas, frambuesas y frutillas. Estas especies toleran el frío y requieren técnicas de cultivo específicas para maximizar la producción en este entorno.
 
 Entre las prácticas recomendadas, el uso de sistemas de riego controlados y la protección contra el viento son esenciales. Además, es común implementar métodos de protección contra heladas y técnicas de fertilización específicas para mejorar la resistencia de las plantas. En Tierra del Fuego, la selección de variedades resistentes y el monitoreo constante de factores como la disponibilidad de agua y la aparición de plagas son fundamentales para el éxito del cultivo frutal.
 
@@ -36,7 +36,7 @@ Entre las prácticas recomendadas, el uso de sistemas de riego controlados y la 
 -------------
 # Objetivo:
 
-El objetivo del cultivo de plantas frutales en Tierra del Fuego es desarrollar un sistema productivo eficiente y sostenible que permita optimizar la producción de frutas adaptadas al clima extremo de la región, como grosellas y frambuesas. Este objetivo incluye mejorar la resistencia de las plantas frente a condiciones adversas, como bajas temperaturas y vientos fuertes, y asegurar una calidad de cosecha adecuada mediante técnicas de riego, fertilización y control de plagas. La meta final es contribuir a la autosuficiencia alimentaria local, generar ingresos para los agricultores y promover el desarrollo agrícola en áreas marginales.
+El objetivo del cultivo de plantas frutales en Tierra del Fuego es desarrollar un sistema productivo eficiente y sostenible que permita optimizar la producción de frutas adaptadas al clima extremo de la región, como grosellas, frambuesas y frutillas. Este objetivo incluye mejorar la resistencia de las plantas frente a condiciones adversas, como bajas temperaturas y vientos fuertes, y asegurar una calidad de cosecha adecuada mediante técnicas de riego, fertilización y control de plagas. La meta final es contribuir a la autosuficiencia alimentaria local, generar ingresos para los agricultores y promover el desarrollo agrícola en áreas marginales.
 
 
 **[⬆ Volver al Indice](#Indice)**
@@ -45,7 +45,7 @@ El objetivo del cultivo de plantas frutales en Tierra del Fuego es desarrollar u
 -----------------------
 # Conclusiones:
 
-El cultivo de plantas frutales en Tierra del Fuego representa una oportunidad para desarrollar una agricultura adaptada a condiciones climáticas extremas, permitiendo la diversificación de la producción local y el fortalecimiento de la autosuficiencia alimentaria. Si bien la región enfrenta desafíos como las bajas temperaturas, vientos fuertes y una temporada de crecimiento limitada, la selección de especies resistentes, como las grosellas y frambuesas, junto con la implementación de técnicas de riego, protección contra el viento y manejo de plagas, han demostrado ser efectivas. 
+El cultivo de plantas frutales en Tierra del Fuego representa una oportunidad para desarrollar una agricultura adaptada a condiciones climáticas extremas, permitiendo la diversificación de la producción local y el fortalecimiento de la autosuficiencia alimentaria. Si bien la región enfrenta desafíos como las bajas temperaturas, vientos fuertes y una temporada de crecimiento limitada, la selección de especies resistentes, como las grosellas, frambuesas y frutillas, junto con la implementación de técnicas de riego, protección contra el viento y manejo de plagas, han demostrado ser efectivas. 
 
 En conclusión, con una planificación adecuada y el apoyo de tecnologías específicas, el cultivo frutal en Tierra del Fuego puede ser sostenible y rentable, beneficiando tanto a los productores locales como a la economía regional.
 
